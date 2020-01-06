@@ -1,0 +1,24 @@
+using System;
+
+class MainClass 
+{
+  public static void Main (string[] args)
+  {
+    int[] firstTable = new int[] {5, 9, 3, 7};
+    int[] secondTable = new int[] {2, 8, 4, 6};
+    int[] thirdTable = new int[8];
+    thirdTable[0] = firstTable[0];
+    thirdTable[1] = firstTable[1];
+    thirdTable[2] = firstTable[2];
+    thirdTable[3] = firstTable[3];
+    thirdTable[4] = secondTable[0];
+    thirdTable[5] = secondTable[1];
+    thirdTable[6] = secondTable[2];
+    thirdTable[7] = secondTable[3];
+
+    foreach(int i in thirdTable)
+    {
+      Console.WriteLine(i);
+    }
+  }
+}

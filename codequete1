@@ -1,0 +1,5 @@
+int x = int.MaxValue;
+long y = long.MaxValue;
+short z = short.MaxValue;
+
+ulong a = x + y + z;

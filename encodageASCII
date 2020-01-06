@@ -1,0 +1,58 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) {
+    char a = (char)0x61;
+    Console.WriteLine (a);
+    char b = (char)0x62;
+    Console.WriteLine (b);
+    char c = (char)0x63;
+    Console.WriteLine (c);
+    char d = (char)0x64;
+    Console.WriteLine (d);
+    char e = (char)0x65;
+    Console.WriteLine (e);
+    char f = (char)0x66;
+    Console.WriteLine (f);
+    char g = (char)0x67;
+    Console.WriteLine (g);
+    char h = (char)0x68;
+    Console.WriteLine (h);
+    char i = (char)0x69;
+    Console.WriteLine (i);
+    char j = (char)0x6A;
+    Console.WriteLine (j);
+    char k = (char)0x6B;
+    Console.WriteLine (k);
+    char l = (char)0x6C;
+    Console.WriteLine (l);
+    char m = (char)0x6D;
+    Console.WriteLine (m);
+    char n = (char)0x6E;
+    Console.WriteLine (n);
+    char o = (char)0x6F;
+    Console.WriteLine (o);
+    char p = (char)0x70;
+    Console.WriteLine (p);
+    char q = (char)0x71;
+    Console.WriteLine (q);
+    char r = (char)0x72;
+    Console.WriteLine (r);
+    char s = (char)0x73;
+    Console.WriteLine (s);
+    char t = (char)0x74;
+    Console.WriteLine (t);
+    char u = (char)0x75;
+    Console.WriteLine (u);
+    char v = (char)0x76;
+    Console.WriteLine (v);
+    char w = (char)0x77;
+    Console.WriteLine (w);
+    char x = (char)0x78;
+    Console.WriteLine (x);
+    char y = (char)0x79;
+    Console.WriteLine (y);
+    char z = (char)0x7A;
+    Console.WriteLine (z);
+  }
+}
